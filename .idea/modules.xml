@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProvaREST.iml" filepath="$PROJECT_DIR$/ProvaREST.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gabry.iml" filepath="$PROJECT_DIR$/gabry.iml" />
     </modules>
   </component>
 </project>
